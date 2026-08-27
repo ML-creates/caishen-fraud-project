@@ -57,3 +57,11 @@ caishen-fraud-project/
 │   └── fraud_detection_report.md
 │
 └── .gitignore
+## Tools & Technologies
+
+Python | Pandas | Scikit-learn | Jupyter Notebook | Machine Learning
+
+## Project Evidence
+
+- Machine Learning Notebook: `Notebooks/fraud_detection.ipynb`
+- Final Report: `Reports/fraud_detection_report.md`
